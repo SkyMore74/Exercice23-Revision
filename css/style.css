@@ -1,0 +1,21 @@
+@font-face {
+    font-family: Maximum-Impact;
+    src: url(../webfonts/Maximum-Impact.ttf);
+}
+
+html, body {
+    --couleur-background : #282c34;
+    --couleur-texte : #e3e7ed;
+    --couleur-texte-bleu : #169fe3;
+    --couleur-background-bouton : #3c3f49;
+    --couleur-background-bouton-select	: rgba(22,159,227,0.7);
+    --couleur-background-bouton-hover : #3794c3;
+}
+
+.lotDeLivre{
+    font-family: Maximum-Impact;
+}
+
+.maitriseWeb{
+    font-family: Maximum-Impact;
+}
